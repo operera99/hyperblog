@@ -4,3 +4,5 @@ ahora intentaremos con soft
 Esta es la modificacion de la que se va a basar la rama
 
 DIV ID = Cabecera. Aqui inicia la cabecera
+
+Este no es un curso de html o css pero miren lo linda que va a quedar esta cabecera
