@@ -4,3 +4,5 @@ ahora intentaremos con soft
 Esta es la modificacion de la que se va a basar la rama
 
 Este es un parrafo que se añade en la version master de nuestro documento.
+
+DIV ID = Cabecera. Aqui inicia la cabecera
