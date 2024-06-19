@@ -2,3 +2,5 @@ Este es un text doc de prueba cambiado
 Hoy hablaremos de la vida
 ahora intentaremos con soft
 Esta es la modificacion de la que se va a basar la rama
+
+DIV ID = Cabecera. Aqui inicia la cabecera
